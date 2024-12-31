@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=414340&height=240&section=header&text=Maruhxn&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&width=700&lines=%F0%9F%91%8B+Hi%2C+there!+I'm+Backend+Developer+using+Java+%2F+Spring.+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&width=700&lines=%F0%9F%91%8B+Hi%2C+there!+I'm+Backend+Developer+using+Java+%2F+Spring.+%F0%9F%9A%80" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruhxn&layout=compact&theme=github_dark_dimmed" 
