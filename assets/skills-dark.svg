@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="388" viewBox="0 0 920 388" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="447" height="159" rx="16" fill="#161B22" stroke="#30363D"/>
+  <text x="24" y="37" font-size="16" font-weight="600" fill="#A5B4FC">Backend</text>
+  <rect x="24.5" y="58.5" width="65" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="57.0" y="75.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Kotlin</text>
+  <rect x="100.5" y="58.5" width="59" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="130.0" y="75.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Java</text>
+  <rect x="170.5" y="58.5" width="105" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="223.0" y="75.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Spring Boot</text>
+  <rect x="286.5" y="58.5" width="129" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="351.0" y="75.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Spring Security</text>
+  <rect x="24.5" y="102.5" width="113" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="81.0" y="119.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Spring Batch</text>
+  <rect x="148.5" y="102.5" width="137" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="217.0" y="119.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">JPA / QueryDSL</text>
+  <rect x="296.5" y="102.5" width="108" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="350.5" y="119.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Resilience4j</text>
+  <rect x="472.5" y="0.5" width="447" height="159" rx="16" fill="#161B22" stroke="#30363D"/>
+  <text x="496" y="37" font-size="16" font-weight="600" fill="#A5B4FC">Database</text>
+  <rect x="496.5" y="58.5" width="77" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="535.0" y="75.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">MySQL</text>
+  <rect x="584.5" y="58.5" width="109" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="639.0" y="75.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">PostgreSQL</text>
+  <rect x="704.5" y="58.5" width="65" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="737.0" y="75.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Redis</text>
+  <rect x="0.5" y="184.5" width="447" height="203" rx="16" fill="#161B22" stroke="#30363D"/>
+  <text x="24" y="221" font-size="16" font-weight="600" fill="#A5B4FC">DevOps</text>
+  <rect x="24.5" y="242.5" width="61" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="55.0" y="259.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">AWS</text>
+  <rect x="96.5" y="242.5" width="59" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="126.0" y="259.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">NCP</text>
+  <rect x="166.5" y="242.5" width="75" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="204.0" y="259.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Docker</text>
+  <rect x="252.5" y="242.5" width="104" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="304.5" y="259.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Kubernetes</text>
+  <rect x="24.5" y="286.5" width="78" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="63.5" y="303.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Jenkins</text>
+  <rect x="113.5" y="286.5" width="127" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="177.0" y="303.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">GitHub Actions</text>
+  <rect x="251.5" y="286.5" width="84" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="293.5" y="303.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Datadog</text>
+  <rect x="24.5" y="330.5" width="108" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="78.5" y="347.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Prometheus</text>
+  <rect x="143.5" y="330.5" width="81" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="184.0" y="347.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Grafana</text>
+  <rect x="472.5" y="184.5" width="447" height="203" rx="16" fill="#161B22" stroke="#30363D"/>
+  <text x="496" y="221" font-size="16" font-weight="600" fill="#A5B4FC">Tools</text>
+  <rect x="496.5" y="242.5" width="46" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="519.5" y="259.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Git</text>
+  <rect x="553.5" y="242.5" width="70" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="588.5" y="259.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Notion</text>
+  <rect x="634.5" y="242.5" width="64" height="33" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <text x="666.5" y="259.0" text-anchor="middle" dominant-baseline="central" font-size="15" fill="#C9D1D9">Slack</text>
+</svg>
