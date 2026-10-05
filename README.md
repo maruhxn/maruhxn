@@ -1,5 +1,7 @@
 # 고지완 | Backend Developer
 
+[![Resume](https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge)](https://maruhxn.kro.kr)
+
 안녕하세요. 사용자가 실제로 겪는 불편에서 문제를 찾고, 개선 전후를 비교할 측정 기준부터 세워 해결하는 백엔드 개발자 고지완입니다.
 
 ## Experience
