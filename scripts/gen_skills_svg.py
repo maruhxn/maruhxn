@@ -10,11 +10,11 @@ from xml.sax.saxutils import escape
 
 SKILLS = {
     "Backend": ["Kotlin", "Java", "Spring Boot", "Spring Security",
-                "Spring Batch", "JPA / QueryDSL", "Resilience4j"],
-    "Database": ["MySQL", "PostgreSQL", "Redis"],
-    "DevOps": ["AWS", "NCP", "Docker", "Kubernetes", "Jenkins",
-               "GitHub Actions", "Datadog", "Prometheus", "Grafana"],
-    "Tools": ["Git", "Notion", "Slack"],
+                "Spring Batch", "JPA", "QueryDSL", "Resilience4j"],
+    "Datasource": ["MySQL", "PostgreSQL", "Redis", "OpenSearch"],
+    "DevOps": ["AWS", "NCP", "Docker", "Jenkins", "GitHub Actions",
+               "Datadog", "Prometheus", "Grafana"],
+    "Tools": ["Git", "Notion", "Slack", "OpenAPI"],
 }
 
 THEMES = {
